@@ -19,3 +19,13 @@
 
 // Bootstrap
 //@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+//Custom SASS files
+
+@import "overrides";
+
+//class helpers
+@import "helpers";
+
+//the actual styles
+@import "styles";
